@@ -1,2 +1,2 @@
 # U-boot
-U-boot collections information per device
+U-boot collections, configs per device
