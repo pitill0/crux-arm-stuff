@@ -1,2 +1,2 @@
 # Kernels
-Kernel collections information per device
+Kernel collections, configs per device
